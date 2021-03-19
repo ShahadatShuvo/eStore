@@ -1,2 +1,2 @@
 # eStore
-This is my versity project.
+This is my university project.
